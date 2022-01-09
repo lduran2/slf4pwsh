@@ -1,6 +1,11 @@
 MIT License
 
-Copyright (c) 2022 Leomar Durán
+Copyright (c) 2022 Leomar Durán <https://github.com/lduran2>.
+
+SLF4J is  Copyright (c) 2004-2017 QOS.ch <https://www.slf4j.org/license.html>.
+Microsoft PowerShell is Copyright (c) Microsoft Corporation
+  <https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt>.
+All rights to the respective owners.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
